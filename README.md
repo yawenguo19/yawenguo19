@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Yawen Guo
 
-<!--
-**yawenguo19/yawenguo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD candidate in Electrical and Computer Engineering at the
+University of California, Santa Cruz.
 
-Here are some ideas to get you started:
+My work spans optical communication systems, photonics experiments,
+digital signal processing, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building an engineering portfolio focused on:
+
+- Optical link budgeting and OSNR analysis
+- Coherent optical transceivers and receiver DSP
+- OIF 800ZR-aligned link simulation
+- PAM4 and high-speed optical communication
+- Optical system characterization and validation
+
+## Featured Project
+
+### Optical Systems Portfolio
+
+A Python-based portfolio covering optical link budgeting, amplified
+spontaneous emission noise, BER-versus-OSNR analysis, coherent
+transceiver DSP, OIF 800ZR-aligned link simulation, and PAM4 eye
+diagram characterization.
+
+Repository coming soon.
+
+## Research Interests
+
+- Optical communication systems
+- Coherent optical DSP
+- Integrated photonics
+- Optical system testing and characterization
+- Machine learning for communication and sensing
+
+## Tools
+
+Python · MATLAB · NumPy · SciPy · PyTorch · OpenCV · Git · Linux
+
+## Links
+
+- Personal Website: https://yawenguo19.github.io
+- LinkedIn: https://www.linkedin.com/in/yawenguo19/
+- Google Scholar: https://scholar.google.com/citations?user=lTGm4lQAAAAJ
