@@ -23,7 +23,7 @@ spontaneous emission noise, BER-versus-OSNR analysis, coherent
 transceiver DSP, OIF 800ZR-aligned link simulation, and PAM4 eye
 diagram characterization.
 
-Repository coming soon.
+[View the Optical Systems Portfolio](https://github.com/yawenguo19/optical-systems-portfolio)
 
 ## Research Interests
 
