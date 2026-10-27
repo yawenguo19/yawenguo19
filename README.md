@@ -3,39 +3,37 @@
 I am a PhD candidate in Electrical and Computer Engineering at the
 University of California, Santa Cruz.
 
-My work spans optical communication systems, photonics experiments,
-digital signal processing, and machine learning.
+My background includes optical wireless communication, digital signal processing, optical experiments, and communication system modeling.
 
-I am currently building an engineering portfolio focused on:
+I'm currently expanding my work toward **high-speed optical transceivers**, **photonic systems**, and **hardware validation**, with an emphasis on connecting theoretical models, Python simulations, and practical engineering workflows.
 
-- Optical link budgeting and OSNR analysis
-- Coherent optical transceivers and receiver DSP
-- OIF 800ZR-aligned link simulation
-- PAM4 and high-speed optical communication
-- Optical system characterization and validation
+
 
 ## Featured Project
 
-### Optical Systems Portfolio
+### [Optical Systems Portfolio](https://github.com/yawenguo19/optical-systems-portfolio)
 
-A Python-based portfolio covering optical link budgeting, amplified
-spontaneous emission noise, BER-versus-OSNR analysis, coherent
-transceiver DSP, OIF 800ZR-aligned link simulation, and PAM4 eye
-diagram characterization.
+A Python-based engineering portfolio focused on high-speed optical communication systems and transceiver validation.
 
-[View the Optical Systems Portfolio](https://github.com/yawenguo19/optical-systems-portfolio)
 
-## Research Interests
+#### Core project areas
+* Optical link budgeting and system margin analysis
+* PAM4 modulation, eye diagrams, and BER characterization
+* IM/DD optical transceiver modeling using OptiCommPy
+* Bandwidth limitations, signal integrity, and equalization
+* Automated optical link characterization and validation
 
-- Optical communication systems
-- Coherent optical DSP
-- Integrated photonics
-- Optical system testing and characterization
-- Machine learning for communication and sensing
+## Technical Interests
+
+- High-speed optical communication and transceiver systems
+- Optical systems modeling, testing, and characterization
+- Silicon photonics and integrated optical devices
+- Digital signal processing and signal integrity
+- Python-based engineering simulation and automation
 
 ## Tools
 
-Python · MATLAB · NumPy · SciPy · PyTorch · OpenCV · Git · Linux
+Python · MATLAB · NumPy · SciPy · PyTorch · OptiCommPy · OpenCV · Git · Linux
 
 ## Links
 
